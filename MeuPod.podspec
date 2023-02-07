@@ -20,7 +20,7 @@ s.author = { "Rodolfo" => "reedysilvabr@gmail.com" }
 s.homepage = "https://github.com/Rodolfo-A-Silva/MyPodTeste"
 
 # 6 - Replace this URL with your own Git URL from "Quick Setup"
-s.source = { :git => "https://github.com/Rodolfo-A-Silva/MyPodTeste.git",
+s.source = { :git => "https://github.com/Rodolfo-A-Silva/MyPodTeste",
 :tag => "#{s.version}" }
 
 # 7 COLOQUE AQUI TODAS AS BIBLIOTECAS NATIVAS QUE FOR USAR
